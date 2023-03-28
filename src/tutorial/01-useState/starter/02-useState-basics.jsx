@@ -7,10 +7,10 @@ const UseStateBasics = () => {
   const handleClick = () => {
     setCount(count + 1)
   }
-  
+
   return (
     <div>
-        <h2>{count}</h2>
+        <h2>You clicked {count} times</h2>
         <button type="button" onClick={handleClick} className="btn">Add</button>
     </div>
     )
