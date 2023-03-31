@@ -11,14 +11,14 @@ function App() {
     <div className='container'>
       <Starter05/>
       {/* <Starter02 /> */}
-{/* 
+ 
       <Starter06 />
       <br /><br /><br />
-      <Starter05 />
+      {/* <Starter05 /> */}
       <br /><br /><br />             
-      <Starter04 />
-      <br /><br /><br /> */}
-      <Starter03 />
+      {/* <Starter04 /> */}
+       <br /><br /><br /> 
+      {/* <Starter03 /> */}
       
    
       
